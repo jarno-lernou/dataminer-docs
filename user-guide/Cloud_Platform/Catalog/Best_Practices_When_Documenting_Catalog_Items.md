@@ -143,6 +143,9 @@ For most of the items below, you can evaluate if there is a maximum and/or minim
 
 ## Technical Reference section
 
+> [!NOTE]
+> Make sure also to use the `documentation_url` field in the Manifest.yml to expose a button on the right panel within the Catalog (more information [here](xref:Register_Catalog_Item).
+
 **Purpose:** Provide links to detailed technical documentation, as the Catalog should focus on high-level information only.
 
 **Format:** Link to technical documentation using the designated URL field in the manifest. If relevant, use a ["Note" alert](xref:CTB_Markdown_Syntax#alerts) with a link in your description.
